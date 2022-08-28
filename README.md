@@ -14,4 +14,8 @@
   <a href="https://t.me/yakummmi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakummi">
+</p>
+
 
